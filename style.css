@@ -87,8 +87,8 @@ text-shadow: 0 -1px 1px #333, 0 1px 1px #FFFFFF;}
 .logotitle a { color:#3C4754;   text-decoration:none;}
 .logosubtitle { font-size:.825em; line-height:1em; margin:0 0 0 2px; padding:0; font-weight:normal; color:#3C4754; }
 
-h1.pagetitle, h2.pagetitle { font-size:1.5em; font-family: 'Raleway', sans-serif; line-height:1.4em; margin:0 0 10px 0; padding:0 0 10px 0; font-weight:normal;  border-bottom:1px solid #88919C;}
-h1.blogtitle, h2.blogtitle { font-size:1.5em; font-family: 'Raleway', sans-serif; line-height:1.4em; margin:15px 0 10px 0; padding:15px 0 0 0; font-weight:normal; border-top:1px dotted #ccc;}
+h1.pagetitle, h2.pagetitle { font-size:1.5em; font-family: 'Roboto', sans-serif; line-height:1.4em; margin:0 0 10px 0; padding:0 0 10px 0; font-weight:normal;  border-bottom:1px solid #88919C;}
+h1.blogtitle, h2.blogtitle { font-size:1.5em; font-family: 'Roboto', sans-serif; line-height:1.4em; margin:15px 0 10px 0; padding:15px 0 0 0; font-weight:normal; border-top:1px dotted #ccc;}
 
 a {text-decoration:none;}
 p { padding:6px 0; margin:0; line-height:1.8em; font-size:.975em;}
@@ -123,7 +123,7 @@ a.opensearch i { font-size:30px; color:#3C4754; ; text-shadow: 0 -1px 1px #333, 
 
 
 #topmenu { margin:0; padding:15px 0 0 0; width:100%; position:relative;   }
-#topmenu ul {float:right; list-style:none; font-family: 'Raleway', sans-serif; font-size:1em; margin:0; padding:0;  }
+#topmenu ul {float:right; list-style:none; font-family: 'Roboto', sans-serif; font-size:1em; margin:0; padding:0;  }
 #topmenu ul li { list-style:none; position:relative; float:left; display:inline-block; padding:0; margin:0; font-weight:normal;  text-transform:uppercase;} 
 #topmenu ul li a { color:#3C4754; text-decoration:none; padding:15px 15px; margin:0; display:block; }
 #topmenu ul li:hover > a { color:#CB292A;}
